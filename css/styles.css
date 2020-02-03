@@ -1,0 +1,29 @@
+* {
+	box-sizing: borderbox;
+	background-color: lightblue;
+	padding: 0;
+	margin: 0;
+	font-family: sans-serif;
+
+}
+
+body {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+#top {
+	border: 1px solid red;
+	height: 100%;
+}
+
+#middle {
+	border: 1px solid green;
+
+}
+
+#bottom {
+	border: 1px solid blue;
+
+}

@@ -45,9 +45,7 @@ main {
 		background-color: lightgrey;
 }
 
-.first-row{
 
-}
 .row {
 	display: flex;
 	flex-direction: row;

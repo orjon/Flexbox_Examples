@@ -1,6 +1,6 @@
 * {
 	box-sizing: border-box;
-	background-color: lightblue;
+	background-color: lightgrey;
 	padding: 0px;
 	margin: 0px;
 	font-family: sans-serif;
@@ -8,17 +8,29 @@
 }
 
 html {
-	border: 1px solid yellow;
+
 
 }
 
 body {
+
 	display: flex;
 	flex-direction: column;
 	align-items: left;
 	justify-content: space-around;
 
 }
+
+header {
+	border: 1px solid yellow;
+}
+
+footer {
+	border: 1px solid yellow;
+
+}
+
+#main
 
 #top {
 	border: 1px solid red;
